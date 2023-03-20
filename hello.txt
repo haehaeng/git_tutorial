@@ -2,4 +2,5 @@
 
 First line
 2 line
+Thrid line
 >>>>>>> 8c797e8 (First commit from new_branch)
