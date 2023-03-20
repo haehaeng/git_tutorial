@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+
+First line
+2 line
+>>>>>>> 8c797e8 (First commit from new_branch)
